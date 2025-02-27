@@ -1,5 +1,4 @@
 # Simple RTOS Task Scheduler
-Made with C for understanding RTOS.
 
 This repository contains a C implementation of a simple task scheduler designed to simulate real-time operating system (RTOS) scheduling algorithms. The scheduler supports two primary algorithms: Round-Robin and Priority-Based scheduling.
 
